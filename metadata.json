@@ -1,0 +1,6 @@
+{
+  "name": "Portal RT 11 - Robo-Tarun",
+  "description": "Pusat Komando Digital Warga, Transparansi Kas Terbuka, Layanan Surat Pengantar, Katalog UMKM, Galeri Komunal, dan Form Aduan Lingkungan RT 11.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
